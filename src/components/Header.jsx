@@ -106,7 +106,7 @@ export default function Header({ title }) {
                 View Projects <FaArrowRight className="h-4 w-4 transition group-hover:translate-x-1" />
               </motion.a>
               <motion.a
-                href="public\resume.pdf"
+                href="/resume.pdf"
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
                 className="group flex items-center justify-center rounded-3xl border border-cyan-400/20 bg-[#0B2447] px-5 py-3 text-sm font-semibold text-cyan-100 shadow-[0_0_15px_rgba(34,211,238,0.15)] transition duration-300 hover:border-cyan-300 hover:bg-cyan-500/20 hover:shadow-[0_0_25px_rgba(34,211,238,0.3)]"
