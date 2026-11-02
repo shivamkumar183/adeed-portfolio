@@ -12,14 +12,14 @@ const educationItems = [
     institution: 'NARAYANA JUNIOR COLLEGE',
     location: 'Andhra Pradesh, Anantapur',
     degree: 'Class XII',
-    details: '73.9% (761 out of 1000)',
+    details: '76.1% (761 out of 1000)',
     year: '2021 – 2022',
   },
   {
     institution: 'PRASAD CONCEPT SCHOOL',
     location: 'Andhra Pradesh, Anantapur',
     degree: 'Class X',
-    details: '88.6% (532 out of 600)',
+    details: '88.7% (532 out of 600)',
     year: '2019 – 2020',
   },
 ];
